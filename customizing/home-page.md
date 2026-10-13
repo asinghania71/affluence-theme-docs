@@ -3,10 +3,14 @@ title: Building the home page
 parent: Customizing
 nav_order: 3
 permalink: /customizing/home-page/
+summary: "A proven section order, and which section to choose for what."
+thumb: styles/lush.jpg
 ---
 
 # Building the home page
 {: .no_toc }
+
+{% include where.html path="Page picker → Home page" %}
 
 1. TOC
 {:toc}

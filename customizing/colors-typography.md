@@ -3,10 +3,14 @@ title: Colors and typography
 parent: Customizing
 nav_order: 1
 permalink: /customizing/colors-typography/
+summary: "Color schemes, fonts, spacing, buttons and image styling."
+thumb: styles/bloom.jpg
 ---
 
 # Colors and typography
 {: .no_toc }
+
+{% include where.html path="Theme settings → Colors, Typography, Layout" %}
 
 1. TOC
 {:toc}

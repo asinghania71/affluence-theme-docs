@@ -1,0 +1,21 @@
+{%- comment -%}
+  Grid of cards for this page's child articles, in nav order. Each child
+  gives `summary:` and `thumb:` (a path under assets/images/) in its front
+  matter; `thumb_pos:` optionally sets the crop (default: top left).
+{%- endcomment -%}
+{%- assign children = site.html_pages | where: "parent", page.title | sort: "nav_order" -%}
+<div class="cards">
+{%- for child in children -%}
+  {%- if child.grand_parent == page.parent %}
+  <a class="card" href="{{ child.url | relative_url }}">
+    {%- if child.thumb %}
+    <span class="card__media"><img src="{{ '/assets/images/' | append: child.thumb | relative_url }}" alt="" loading="lazy" style="object-position: {{ child.thumb_pos | default: 'left top' }}"></span>
+    {%- endif %}
+    <span class="card__body">
+      <span class="card__title">{{ child.title }}</span>
+      {%- if child.summary %}<span class="card__text">{{ child.summary }}</span>{% endif %}
+    </span>
+  </a>
+  {%- endif -%}
+{%- endfor %}
+</div>

@@ -4,9 +4,13 @@ parent: Cart
 grand_parent: Customizing
 nav_order: 7
 permalink: /customizing/cart/recommendations/
+summary: "Suggest products in the cart to raise the order value."
+thumb: cart/recommendations.png
 ---
 
 # Cart recommendations
+
+{% include where.html path="Cart template → Cart section → Recommendations" %}
 
 Show "You may also like" products in the cart to raise the order value.
 

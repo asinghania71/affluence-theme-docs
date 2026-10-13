@@ -4,9 +4,13 @@ parent: Header and navigation
 grand_parent: Customizing
 nav_order: 3
 permalink: /customizing/header-navigation/layout/
+summary: "Four header layouts, and how the header behaves on scroll."
+thumb: header/layouts.png
 ---
 
 # Header layout
+
+{% include where.html path="Header group → Header → Layout" styles="Logo on the left: Lush, Atelier, Catalog · Logo in the center: Terra · Split menu: Noir · Logo above the menu: Bloom" %}
 
 Open the **Header** section in the Header group.
 

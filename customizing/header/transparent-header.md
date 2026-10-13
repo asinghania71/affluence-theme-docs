@@ -4,9 +4,13 @@ parent: Header and navigation
 grand_parent: Customizing
 nav_order: 4
 permalink: /customizing/header-navigation/transparent-header/
+summary: "Lay the header over a full-width image."
+thumb: header/transparent.png
 ---
 
 # Transparent header
+
+{% include where.html path="Header group → Header → Transparent header" styles="Home page only: Atelier · Every page: Noir" %}
 
 Lay the header over a full-width image at the top of the page, for a magazine-style first impression. The header turns solid as soon as shoppers scroll.
 

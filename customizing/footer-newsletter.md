@@ -3,10 +3,14 @@ title: Footer and newsletter
 parent: Customizing
 nav_order: 9
 permalink: /customizing/footer-newsletter/
+summary: "Footer layouts, menus, social links and email signup."
+thumb: footer/footer-mobile.png
 ---
 
 # Footer and newsletter
 {: .no_toc }
+
+{% include where.html path="Footer group → Footer" styles="Columns: Lush, Atelier, Terra, Catalog · Centered: Bloom · Wordmark: Noir" %}
 
 ## Footer blocks
 

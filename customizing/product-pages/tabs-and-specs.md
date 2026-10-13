@@ -4,10 +4,14 @@ parent: Product pages
 grand_parent: Customizing
 nav_order: 6
 permalink: /customizing/product-pages/tabs-and-specs/
+summary: "Tabs, accordions, specification lists and size-guide pop-ups."
+thumb: product/tabs.png
 ---
 
 # Tabs, specifications and pop-ups
 {: .no_toc }
+
+{% include where.html path="Product template → Product information → Tabs, Specifications or Pop-up block" styles="Tabs: Catalog · Specifications: Catalog, Terra" %}
 
 1. TOC
 {:toc}

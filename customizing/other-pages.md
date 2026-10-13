@@ -3,10 +3,14 @@ title: Blog, pages and accounts
 parent: Customizing
 nav_order: 10
 permalink: /customizing/other-pages/
+summary: "Blog, pages, customer accounts, password and 404 pages."
+thumb: styles/terra.jpg
 ---
 
 # Blog, pages and accounts
 {: .no_toc }
+
+{% include where.html path="Shopify admin → Online Store → Pages" %}
 
 1. TOC
 {:toc}

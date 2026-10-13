@@ -3,10 +3,14 @@ title: Search
 parent: Customizing
 nav_order: 8
 permalink: /customizing/search/
+summary: "Suggestions as shoppers type, and a helpful results page."
+thumb: search/predictive.png
 ---
 
 # Search
 {: .no_toc }
+
+{% include where.html path="Theme settings → Search" styles="Recent searches on: Lush, Catalog" %}
 
 ## Predictive search
 

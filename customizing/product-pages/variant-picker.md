@@ -4,9 +4,13 @@ parent: Product pages
 grand_parent: Customizing
 nav_order: 2
 permalink: /customizing/product-pages/variant-picker/
+summary: "Show options as swatches, buttons or a dropdown."
+thumb: product/variant-picker.png
 ---
 
 # Variant picker
+
+{% include where.html path="Product template → Product information → Variant picker block" %}
 
 The **Variant picker** block shows a product's options, such as size and color.
 

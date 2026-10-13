@@ -4,9 +4,13 @@ parent: Cart
 grand_parent: Customizing
 nav_order: 5
 permalink: /customizing/cart/terms-checkbox/
+summary: "Require customers to accept your terms before checkout."
+thumb: cart/terms.png
 ---
 
 # Terms checkbox
+
+{% include where.html path="Theme settings → Cart → Require agreement to terms" styles="On in Atelier, Catalog" %}
 
 Require customers to tick a box agreeing to your terms before they can check out.
 

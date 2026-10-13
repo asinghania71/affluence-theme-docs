@@ -3,10 +3,14 @@ title: Wishlist
 parent: Customizing
 nav_order: 7
 permalink: /customizing/wishlist/
+summary: "Let shoppers save products, with no app or account."
+thumb: wishlist/drawer.png
 ---
 
 # Wishlist
 {: .no_toc }
+
+{% include where.html path="Theme settings → Wishlist" styles="Drawer: Lush, Bloom · Pop-up: Noir, Terra · Page: Atelier · Off: Catalog" %}
 
 Shoppers save products with the heart button on product cards and product pages, then open their list from the heart icon in the header.
 

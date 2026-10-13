@@ -4,9 +4,14 @@ parent: Header and navigation
 grand_parent: Customizing
 nav_order: 2
 permalink: /customizing/header-navigation/countdown/
+summary: "Count down to the real end of a sale."
+thumb: header/countdown.png
+thumb_pos: center top
 ---
 
 # Countdown timer
+
+{% include where.html path="Header group → Announcement bar → Add block → Countdown" styles="Included in all six styles" %}
 
 Count down to the real end of a sale, in the announcement bar.
 

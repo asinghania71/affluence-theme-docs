@@ -4,9 +4,14 @@ parent: Product pages
 grand_parent: Customizing
 nav_order: 3
 permalink: /customizing/product-pages/buy-buttons/
+summary: "Quantity, accelerated checkout and the sticky add-to-cart bar."
+thumb: product/sticky-atc.png
+thumb_pos: center bottom
 ---
 
 # Buy buttons
+
+{% include where.html path="Product template → Product information → Buy buttons block" %}
 
 ## Buy buttons block
 

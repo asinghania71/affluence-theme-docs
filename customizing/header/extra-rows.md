@@ -4,9 +4,14 @@ parent: Header and navigation
 grand_parent: Customizing
 nav_order: 6
 permalink: /customizing/header-navigation/extra-rows/
+summary: "A second row of links, or a strip of collection images."
+thumb: header/collection-row.png
+thumb_pos: center top
 ---
 
 # Menu row and collection row
+
+{% include where.html path="Header group → Add section → Header menu row or Header collection row" styles="Menu row: Lush, Catalog · Collection row: Bloom, Terra" %}
 
 Two optional rows that sit under the header. Add them from the Header group with **Add section**. Each can be used once.
 

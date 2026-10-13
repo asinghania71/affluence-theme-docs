@@ -1,0 +1,18 @@
+{%- comment -%}
+  "Where to find it" box at the top of an article.
+  {% include where.html path="Theme settings → Cart" styles="On in Lush, Noir" %}
+  path   - where the setting lives in the theme editor or admin
+  styles - optional: which of the six styles use or set it
+{%- endcomment -%}
+<div class="where">
+  <div class="where__row">
+    <span class="where__label">Where</span>
+    <span class="where__value notranslate">{{ include.path }}</span>
+  </div>
+  {%- if include.styles %}
+  <div class="where__row">
+    <span class="where__label">Styles</span>
+    <span class="where__value">{{ include.styles }}</span>
+  </div>
+  {%- endif %}
+</div>

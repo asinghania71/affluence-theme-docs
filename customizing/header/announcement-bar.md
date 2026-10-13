@@ -4,9 +4,13 @@ parent: Header and navigation
 grand_parent: Customizing
 nav_order: 1
 permalink: /customizing/header-navigation/announcement-bar/
+summary: "Short messages above the header: static, scrolling or rotating."
+thumb: header/menu-row.png
 ---
 
 # Announcement bar
+
+{% include where.html path="Header group → Announcement bar" styles="Static: Noir · Scrolling: Lush, Atelier, Terra · Rotating: Bloom, Catalog" %}
 
 A thin bar above the header for short messages such as free shipping offers, a sale or a new collection.
 

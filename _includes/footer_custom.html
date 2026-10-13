@@ -1,0 +1,22 @@
+{%- comment -%} Previous / Next between articles that share a parent. {%- endcomment -%}
+{%- if page.parent and page.grand_parent != "Reference" and page.parent != "Sections reference" -%}
+  {%- assign siblings = site.html_pages | where: "parent", page.parent | where: "grand_parent", page.grand_parent | sort: "nav_order" -%}
+  {%- for s in siblings -%}
+    {%- if s.url == page.url -%}
+      {%- assign i = forloop.index0 -%}
+    {%- endif -%}
+  {%- endfor -%}
+  {%- if i -%}
+    {%- assign prev_i = i | minus: 1 -%}
+    {%- assign next_i = i | plus: 1 -%}
+    <nav class="pager" aria-label="Previous and next articles">
+      {%- if i > 0 -%}{%- assign p = siblings[prev_i] -%}
+      <a class="pager__link" href="{{ p.url | relative_url }}"><span class="pager__dir">← Previous</span><span class="pager__title">{{ p.title }}</span></a>
+      {%- else -%}<span></span>{%- endif -%}
+      {%- if siblings[next_i] -%}{%- assign n = siblings[next_i] -%}
+      <a class="pager__link pager__link--next" href="{{ n.url | relative_url }}"><span class="pager__dir">Next →</span><span class="pager__title">{{ n.title }}</span></a>
+      {%- endif -%}
+    </nav>
+  {%- endif -%}
+{%- endif -%}
+<p class="footer-note">Lush theme by Anand Singhania · <a href="{{ '/support/' | relative_url }}">Contact support</a></p>

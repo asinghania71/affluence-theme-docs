@@ -4,9 +4,14 @@ parent: Product pages
 grand_parent: Customizing
 nav_order: 7
 permalink: /customizing/product-pages/more-blocks/
+summary: "Low stock, pickup, complementary products and more."
+thumb: product/page.png
+thumb_pos: right top
 ---
 
 # Stock and other blocks
+
+{% include where.html path="Product template → Product information → Add block" %}
 
 ## Inventory status
 

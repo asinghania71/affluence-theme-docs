@@ -4,9 +4,14 @@ parent: Header and navigation
 grand_parent: Customizing
 nav_order: 7
 permalink: /customizing/header-navigation/mobile-menu/
+summary: "Drill-down navigation, promo tiles and a featured image."
+thumb: header/mobile-menu.png
+thumb_pos: center top
 ---
 
 # Mobile menu
+
+{% include where.html path="Header group → Header → Mobile menu" %}
 
 On phones, the menu opens from the ☰ icon. It uses the same **Main menu** as desktop.
 

@@ -4,9 +4,13 @@ parent: Cart
 grand_parent: Customizing
 nav_order: 8
 permalink: /customizing/cart/line-items/
+summary: "Choose what each item shows, and how the cart page looks."
+thumb: cart/page.png
 ---
 
 # Line items and the cart page
+
+{% include where.html path="Cart template → Cart section → Cart items block" %}
 
 ## Choose what each item shows
 

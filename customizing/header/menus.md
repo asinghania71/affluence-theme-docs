@@ -4,9 +4,13 @@ parent: Header and navigation
 grand_parent: Customizing
 nav_order: 5
 permalink: /customizing/header-navigation/menus/
+summary: "Build menus and dropdowns, and add promo images."
+thumb: header/mega-menu.png
 ---
 
 # Menus and dropdowns
+
+{% include where.html path="Shopify admin → Content → Menus, then Header → Menu" %}
 
 ## Build the menu
 

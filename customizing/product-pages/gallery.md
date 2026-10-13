@@ -4,9 +4,13 @@ parent: Product pages
 grand_parent: Customizing
 nav_order: 1
 permalink: /customizing/product-pages/gallery/
+summary: "Five gallery layouts, gallery width and image zoom."
+thumb: product/gallery-layouts.png
 ---
 
 # Gallery and media
+
+{% include where.html path="Product template → Product information → Gallery layout" styles="Thumbnails on the right: Lush, Terra · Thumbnails on the left: Catalog · Thumbnails below: Bloom · Stacked: Atelier · Grid: Noir" %}
 
 Open **Products → Default product → Product information**. The gallery settings are at the top of the section.
 

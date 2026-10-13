@@ -3,10 +3,14 @@ title: Collection pages
 parent: Customizing
 nav_order: 4
 permalink: /customizing/collection-pages/
+summary: "Filters, sorting, product cards, badges and ribbons."
+thumb: collection/page.png
 ---
 
 # Collection pages
 {: .no_toc }
+
+{% include where.html path="Page picker → Collections → Default collection" %}
 
 1. TOC
 {:toc}

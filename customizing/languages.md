@@ -3,9 +3,13 @@ title: Languages and translations
 parent: Customizing
 nav_order: 11
 permalink: /customizing/languages/
+summary: "The 31 languages Lush includes, and how to change wording."
+thumb: styles/noir.jpg
 ---
 
 # Languages and translations
+
+{% include where.html path="Shopify admin → Online Store → Themes → ⋯ → Edit default theme content" %}
 
 Lush includes translations for 31 languages: Bulgarian, Chinese (Simplified and Traditional), Croatian, Czech, Danish, Dutch, English, Finnish, French, German, Greek, Hungarian, Indonesian, Italian, Japanese, Korean, Lithuanian, Norwegian Bokmål, Polish, Portuguese (Brazil and Portugal), Romanian, Russian, Slovak, Slovenian, Spanish, Swedish, Thai, Turkish and Vietnamese.
 

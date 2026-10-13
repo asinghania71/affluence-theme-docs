@@ -1,0 +1,19 @@
+// Lush brand: the theme's own scheme-1/scheme-3 colors (config/settings_data.json).
+// Dark mode is layered on top in _sass/custom/custom.scss.
+$color-scheme: light;
+$body-background-color: #f9f8f5;
+$body-heading-color: #111110;
+$body-text-color: #3d3a35;
+$link-color: #80643b;
+$nav-child-link-color: #3d3a35;
+$sidebar-color: #f0ede8;
+$base-button-color: #f0ede8;
+$btn-primary-color: #111110;
+$code-background-color: #f0ede8;
+$feedback-color: #e6e1d8;
+$table-background-color: #ffffff;
+$search-background-color: #ffffff;
+$search-result-preview-color: #6b6459;
+$border-color: #e4dfd6;
+
+@import "./vendor/OneLightJekyll/syntax";

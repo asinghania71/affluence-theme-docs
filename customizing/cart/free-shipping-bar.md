@@ -4,9 +4,13 @@ parent: Cart
 grand_parent: Customizing
 nav_order: 2
 permalink: /customizing/cart/free-shipping-bar/
+summary: "Show shoppers how close they are to free shipping."
+thumb: cart/shipping-bar.png
 ---
 
 # Free shipping bar
+
+{% include where.html path="Cart template → Cart section → Free shipping bar block" %}
 
 Show shoppers how much more they need to spend to get free shipping. The bar fills as they add items and changes color once they qualify.
 

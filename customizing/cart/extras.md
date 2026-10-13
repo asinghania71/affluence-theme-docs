@@ -4,10 +4,15 @@ parent: Cart
 grand_parent: Customizing
 nav_order: 6
 permalink: /customizing/cart/extras/
+summary: "Discount codes, gift wrap with a message, and a shipping estimate."
+thumb: cart/extras.png
+thumb_pos: right bottom
 ---
 
 # Discount, gift wrap and shipping estimate
 {: .no_toc }
+
+{% include where.html path="Cart template → Cart section → Add block" %}
 
 Three optional blocks for the cart. Add each one from the **Cart** section:
 

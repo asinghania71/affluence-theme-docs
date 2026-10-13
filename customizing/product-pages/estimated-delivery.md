@@ -4,9 +4,13 @@ parent: Product pages
 grand_parent: Customizing
 nav_order: 5
 permalink: /customizing/product-pages/estimated-delivery/
+summary: "A delivery date range worked out from your own shipping times."
+thumb: product/estimated-delivery.png
 ---
 
 # Estimated delivery
+
+{% include where.html path="Product template → Product information → Estimated delivery date block" styles="Included in all six styles" %}
 
 Show a delivery window such as "Estimated delivery Oct 16–Oct 21", worked out from your own processing and shipping times.
 

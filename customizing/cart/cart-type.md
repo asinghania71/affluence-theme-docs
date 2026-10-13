@@ -4,9 +4,14 @@ parent: Cart
 grand_parent: Customizing
 nav_order: 1
 permalink: /customizing/cart/cart-type/
+summary: "Drawer, cart page or a small notification after Add to cart."
+thumb: cart/notification.png
+thumb_pos: right top
 ---
 
 # Cart type
+
+{% include where.html path="Theme settings → Cart → Cart type" styles="Drawer: Lush, Noir, Terra · Page: Atelier · Notification: Bloom, Catalog" %}
 
 Choose what shoppers see right after they add a product to the cart.
 

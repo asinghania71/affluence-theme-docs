@@ -3,7 +3,10 @@ title: Product pages
 parent: Customizing
 nav_order: 5
 has_children: true
+has_toc: false
 permalink: /customizing/product-pages/
+summary: "Gallery, variants, buy buttons, custom fields and delivery dates."
+thumb: product/page.png
 ---
 
 # Product pages
@@ -11,22 +14,16 @@ permalink: /customizing/product-pages/
 
 In the page picker, choose **Products → Default product**, then open the **Product information** section. The left half of the page is the media gallery. The right half is made of blocks that you can reorder, hide or remove.
 
+## Articles in this section
+
+{% include cards.html %}
+
+## What it looks like
+
 ![A product page with the gallery on the left and title, price, variant picker and buy buttons on the right]({{ '/assets/images/product/page.png' | relative_url }})
 
 ![The same product page on a phone: gallery first, details below]({{ '/assets/images/product/page-mobile.png' | relative_url }}){: .phone}
 *On a phone.*
-
-## Articles in this section
-
-| Task | Article |
-|---|---|
-| Choose a gallery layout, width and zoom | [Gallery and media](gallery/) |
-| Show variants as swatches, buttons or a dropdown | [Variant picker](variant-picker/) |
-| Configure buy buttons and the sticky add-to-cart bar | [Buy buttons](buy-buttons/) |
-| Collect an engraving or gift message | [Custom fields](custom-fields/) |
-| Show an estimated delivery date | [Estimated delivery](estimated-delivery/) |
-| Add tabs, accordions, specifications and a size chart | [Tabs, specifications and pop-ups](tabs-and-specs/) |
-| Show low stock, pickup and other details | [Stock and other blocks](more-blocks/) |
 
 ## All blocks
 
