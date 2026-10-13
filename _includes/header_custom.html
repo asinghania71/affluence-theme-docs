@@ -1,0 +1,25 @@
+<div id="google_translate_element" class="lush-translate" aria-label="Translate this page"></div>
+<script>
+  /* Keep bold setting names in English: merchants click the labels their
+     admin shows, and the admin language is separate from this page's.
+     Block comments only: just-the-docs compresses the HTML onto one line,
+     so a // comment would swallow the rest of this script. */
+  document.addEventListener('DOMContentLoaded', function () {
+    document.querySelectorAll('.main-content strong, .site-title').forEach(function (el) {
+      el.classList.add('notranslate');
+    });
+  });
+  function googleTranslateElementInit() {
+    new google.translate.TranslateElement({
+      pageLanguage: 'en',
+      includedLanguages: 'bg,cs,da,de,el,es,fi,fr,hr,hu,id,it,ja,ko,lt,nl,no,pl,pt,ro,ru,sk,sl,sv,th,tr,vi,zh-CN,zh-TW',
+      layout: google.translate.TranslateElement.InlineLayout.SIMPLE,
+      autoDisplay: false
+    }, 'google_translate_element');
+  }
+</script>
+<script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit" async></script>
+<style>
+  .lush-translate { display: flex; align-items: center; padding-inline: 1rem; }
+  .lush-translate .goog-te-gadget-simple { border: 1px solid #ddd; border-radius: 4px; padding: 4px 8px; }
+</style>

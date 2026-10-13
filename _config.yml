@@ -1,0 +1,24 @@
+title: Lush Theme Documentation
+description: Documentation for Lush, a premium Shopify theme.
+url: https://asinghania71.github.io
+baseurl: /lush-theme-docs
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+color_scheme: light
+search_enabled: true
+heading_anchors: true
+back_to_top: true
+back_to_top_text: "Back to top"
+footer_content: "Lush theme by Anand Singhania. Need help? See the Support page."
+exclude:
+  - "*.py"
+  - Gemfile
+  - README.md
+# Plain Jekyll (any host) doesn't add layouts automatically the way GitHub
+# Pages does, so set the default here.
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default

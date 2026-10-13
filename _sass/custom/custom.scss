@@ -1,0 +1,7 @@
+// Phone screenshots: shown at phone size, framed so they read as a device.
+.main-content img.phone {
+  display: block;
+  max-width: 320px;
+  border: 1px solid #ddd;
+  border-radius: 12px;
+}
