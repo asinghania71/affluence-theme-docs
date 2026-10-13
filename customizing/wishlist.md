@@ -10,7 +10,7 @@ thumb: wishlist/drawer.png
 # Wishlist
 {: .no_toc }
 
-{% include where.html path="Theme settings → Wishlist" styles="Drawer: Lush, Bloom · Pop-up: Noir, Terra · Page: Atelier · Off: Catalog" %}
+{% include where.html path="Theme settings → Wishlist" styles="Drawer: Lush, Bloom · Modal: Noir, Terra · Page: Atelier · Off: Catalog" %}
 
 Shoppers save products with the heart button on product cards and product pages, then open their list from the heart icon in the header.
 
@@ -26,9 +26,8 @@ The wishlist is stored in the shopper's own browser. There is no account, no app
 ## Setting it up
 
 1. Check that **Theme settings → Wishlist → Enable wishlist** is on. Turning it off removes every wishlist button and the header icon.
-1. Create a page: **Online Store → Pages → Add page**, and choose the **Wishlist** template.
-1. In the **Header** section, set **Wishlist page** to that page. The heart icon in the header appears once this is set.
 1. In **Theme settings → Wishlist**, choose **Wishlist type**: *Drawer*, *Modal* or *Page*.
+1. For *Page* only: create a page (**Online Store → Pages → Add page**) with the **Wishlist** template, then set **Wishlist page** in the **Header** section to that page. The header heart icon appears once this is set. *Drawer* and *Modal* need no page.
 1. Optional: show a "Move to cart" button, confirm before clearing, and a notification when an item is removed.
 1. Show or hide the heart on product cards in **Product cards**, and choose its position.
 

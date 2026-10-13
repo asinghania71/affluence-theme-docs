@@ -46,6 +46,6 @@ The last three settings need **Keep the header visible when scrolling** turned o
 |---|---|
 | **Show search** | The search icon and search drawer |
 | **Cart icon shows** | **Item count**, or **Item count and total** |
-| **Wishlist page** | Link a page with the Wishlist template to show the heart icon. See [Wishlist](../../wishlist/) |
+| **Wishlist page** | When **Wishlist type** is *Page*, link a page with the Wishlist template to show the heart icon. See [Wishlist](../../wishlist/) |
 | **Show country and language selectors** | Shown only if you sell in more than one country or language |
 | **Show a divider below the header** | A thin line under the header |

@@ -30,7 +30,7 @@ Show or hide the collection banner, image and description. Breadcrumbs are turne
 
 - **Products per page**, and desktop/mobile column counts.
 - **Pagination**: numbered pages, a *Load more* button, or infinite scroll. Numbered pages work without JavaScript and are the safest for search engines.
-- **Grid density toggle**: lets shoppers switch between a compact and a wide view. Their choice is remembered in their own browser.
+- **Let shoppers switch grid density**: lets shoppers switch between a compact and a wide view. Their choice is remembered in their own browser.
 
 ## Filtering and sorting
 

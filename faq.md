@@ -56,7 +56,7 @@ Check that the product has available variants and that no app is changing the pr
 ## Navigation
 
 **The heart icon is missing from the header.**
-Set **Wishlist page** in the Header section.
+Check that **Theme settings → Wishlist → Enable wishlist** is on. If **Wishlist type** is *Page*, also set **Wishlist page** in the Header section.
 
 **The header isn't transparent on some pages.**
 It's only transparent over a Hero, Slideshow or full-width Video at the very top of the page. See [Transparent header](../customizing/header-navigation/transparent-header/).
