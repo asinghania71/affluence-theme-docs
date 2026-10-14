@@ -4,7 +4,7 @@ parent: Product pages
 grand_parent: Customizing
 nav_order: 1
 permalink: /customizing/product-pages/gallery/
-summary: "Five gallery layouts, gallery width and image zoom."
+summary: "Five gallery layouts, gallery width, image zoom, video and 3D models."
 thumb: product/gallery-layouts.png
 ---
 
@@ -40,6 +40,10 @@ Use a wider gallery for products that sell on looks (fashion, jewelry). Use a na
 
 - **Zoom images on hover** magnifies the image under the mouse pointer.
 - **Theme settings → Media → Enable image zoom** adds a button that opens images full screen, on every device.
+
+## Videos and 3D models
+
+The gallery plays uploaded videos and YouTube or Vimeo links, and shoppers can rotate and zoom 3D models. When a product has a 3D model, phones that support augmented reality also show a **View in your space** button under the gallery, to place the model in the room through the camera. Add media in the product's **Media** section in the admin.
 
 ## Show only the selected variant's images
 

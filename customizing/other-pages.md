@@ -29,7 +29,7 @@ Login, register, account, order, addresses, activate-account and reset-password 
 
 ## Password page
 
-While your store is password protected, visitors see the [Password](../../reference/sections/password/) page. Set the message and colors in the editor.
+While your store is password protected, visitors see the [Password](../../reference/sections/password/) page, with an email signup so they can hear when you open. Signups appear in **Customers**, tagged `newsletter`. Set the message and colors in the editor.
 
 ## 404 page
 

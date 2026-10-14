@@ -22,7 +22,7 @@ Lush never shows made-up stock levels, viewer counts or timers. Every number com
 
 ## Pickup availability
 
-Shows whether the selected variant can be picked up in store, with a link to see every location. Set up local pickup in **Settings → Shipping and delivery** first.
+Shows whether the selected variant can be picked up in store, with a link to every pickup location that stocks it, including ones where it's sold out. With one location, the link shows that store's address. Set up local pickup in **Settings → Shipping and delivery** first.
 
 ## Complementary products
 
