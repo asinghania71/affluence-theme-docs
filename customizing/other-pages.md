@@ -19,6 +19,8 @@ thumb: styles/terra.jpg
 
 The [Blog posts](../../reference/sections/main-blog/) section controls date, author, excerpt, columns and articles per page. A single post uses [Blog post](../../reference/sections/main-article/).
 
+With **Show tag filter** on (the default), the blog lists every tag used on its posts above the articles. Shoppers can pick more than one tag to narrow the list, and pick a tag again to remove it. On phones the tags sit in one row that scrolls sideways. Add tags to a post in **Content → Blog posts**.
+
 ## Pages
 
 Use **Online Store → Pages** and assign a template: **Default**, **About**, **Contact** or **Wishlist**. The **Contact form** section lets you add your own fields.

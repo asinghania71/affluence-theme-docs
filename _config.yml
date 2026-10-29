@@ -1,7 +1,7 @@
 title: Lush Help Center
 description: Documentation for Lush, a premium Shopify theme.
 url: https://asinghania71.github.io
-baseurl: /lush-theme-docs
+baseurl: /affluence-theme-docs
 remote_theme: just-the-docs/just-the-docs@v0.10.1
 plugins:
   - jekyll-remote-theme

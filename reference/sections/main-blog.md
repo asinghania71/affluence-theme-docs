@@ -19,6 +19,7 @@ parent: Sections reference
 | Setting | Type | Default | Notes |
 |---|---|---|---|
 | Heading size | select | h1 | Options: Small · Medium · Large. |
+| Show tag filter | checkbox | on |  |
 
 
 **Article cards**

@@ -18,14 +18,14 @@ permalink: /support/
 
 ## Contact support
 
-**[Open the support form](SUPPORT_FORM_URL_HERE)**{: .btn .btn-primary }
+**[Open the support form](https://forms.gle/YGrhru8Q67tTB3wa8)**{: .btn .btn-primary }
 
 The form asks for:
 
 - Your name (first and last)
 - Your email address
 - Your store URL, for example `your-store.myshopify.com`
-- A description of the problem, with screenshots if you can attach them
+- A description of the problem, plus an optional link to screenshots or a screen recording
 
 You receive an automatic confirmation email when your request is sent.
 
