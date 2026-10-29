@@ -12,11 +12,11 @@ Affluence ships with five styles. A style sets the colors, fonts, corner shapes,
 
 | Style | Look and feel | Best for |
 |---|---|---|
-| **Affluence** | Light, warm neutrals with gold accents, sharp corners, elegant serif headings | Beauty, home, jewelry |
-| **Noir** | Dark, warm gold accent, sharp corners, classic serif headings | Luxury, fragrance, spirits |
-| **Atelier** | Cool near-white, emerald accent, thicker button borders, uppercase headings | Fashion, design, art |
-| **Bloom** | Light and soft, coral-pink accent, fully rounded buttons and cards, one friendly typeface | Lifestyle, gifts, wellness |
-| **Terra** | Dark warm clay-brown, terracotta accent, slab-serif headings, medium rounded corners | Food, craft, outdoor |
+| **Affluence** | Light, warm neutrals with gold accents, sharp corners, elegant serif headings | Skincare, beauty, wellness |
+| **Noir** | Dark, warm gold accent, sharp corners, classic serif headings | Fine jewelry, watches, luxury accessories |
+| **Atelier** | Cool near-white, emerald accent, thicker button borders, uppercase headings | Fashion, apparel, accessories |
+| **Bloom** | Light and soft, coral-pink accent, fully rounded buttons and cards, one friendly typeface | Flowers, gifts, lifestyle |
+| **Terra** | Dark warm clay-brown, terracotta accent, slab-serif headings, medium rounded corners | Home decor, ceramics, handmade goods |
 
 ## Preview
 
