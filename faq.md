@@ -24,7 +24,7 @@ Theme settings → Brand information, and logo width in the Header section.
 **How do I update the theme?**
 See [Updating the theme](../getting-started/updating/). Editor settings carry over; code edits don't.
 
-**Does Lush work without apps?**
+**Does Affluence work without apps?**
 Yes. The wishlist, product ribbons, estimated delivery, custom fields, gift wrap, discount codes and the shipping estimate are all built in. Filters and product recommendations use Shopify's free Search & Discovery app.
 
 ## Products and cart

@@ -10,7 +10,7 @@ thumb: header/menu-row.png
 
 # Announcement bar
 
-{% include where.html path="Header group → Announcement bar" styles="Static: Noir · Scrolling: Lush, Atelier, Terra · Rotating: Bloom, Catalog" %}
+{% include where.html path="Header group → Announcement bar" styles="Static: Noir · Scrolling: Affluence, Atelier, Terra · Rotating: Bloom, Catalog" %}
 
 A thin bar above the header for short messages such as free shipping offers, a sale or a new collection.
 

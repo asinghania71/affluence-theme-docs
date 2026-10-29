@@ -17,7 +17,7 @@ thumb: styles/bloom.jpg
 
 ## Color schemes
 
-Lush organizes color into **schemes**. A scheme is a named set of colors used together:
+Affluence organizes color into **schemes**. A scheme is a named set of colors used together:
 
 | Color | Used for |
 |---|---|

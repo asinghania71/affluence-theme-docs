@@ -10,7 +10,7 @@ permalink: /changelog/
 
 Initial release.
 
-- **Six styles**: Lush, Noir, Atelier, Bloom, Terra and Catalog.
+- **Six styles**: Affluence, Noir, Atelier, Bloom, Terra and Catalog.
 - **34 sections** to add from **Add section**, each with its own color scheme and spacing.
 - **Header**: four layouts, transparent header, hide-on-scroll and shrink-on-scroll, mega menu promos, an optional menu row and collection row, and an announcement bar with a countdown to a fixed date.
 - **Product page**: five gallery layouts, adjustable gallery width, fit-to-screen media, variant images, swatches, custom fields, estimated delivery, tabs, specifications, size-guide pop-ups, quick order table and a sticky add-to-cart bar.

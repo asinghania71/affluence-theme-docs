@@ -50,7 +50,7 @@ parent: Sections reference
 ## Blocks
 
 #### Theme blocks
-Accepts any of Lush's reusable [theme blocks](../../blocks/) (heading, text, button, icon, and more).
+Accepts any of Affluence's reusable [theme blocks](../../blocks/) (heading, text, button, icon, and more).
 
 
 #### App blocks

@@ -7,7 +7,7 @@ permalink: /getting-started/updating/
 
 # Updating the theme
 
-New versions of Lush add features and fix bugs. See what's new in the [Changelog](../../changelog/).
+New versions of Affluence add features and fix bugs. See what's new in the [Changelog](../../changelog/).
 
 ## When an update is available
 

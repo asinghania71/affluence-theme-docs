@@ -10,7 +10,7 @@ thumb: header/layouts.png
 
 # Header layout
 
-{% include where.html path="Header group → Header → Layout" styles="Logo on the left: Lush, Atelier, Catalog · Logo in the center: Terra · Split menu: Noir · Logo above the menu: Bloom" %}
+{% include where.html path="Header group → Header → Layout" styles="Logo on the left: Affluence, Atelier, Catalog · Logo in the center: Terra · Split menu: Noir · Logo above the menu: Bloom" %}
 
 Open the **Header** section in the Header group.
 

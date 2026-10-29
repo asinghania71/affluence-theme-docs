@@ -11,7 +11,7 @@ thumb_pos: center top
 
 # Menu row and collection row
 
-{% include where.html path="Header group → Add section → Header menu row or Header collection row" styles="Menu row: Lush, Catalog · Collection row: Bloom, Terra" %}
+{% include where.html path="Header group → Add section → Header menu row or Header collection row" styles="Menu row: Affluence, Catalog · Collection row: Bloom, Terra" %}
 
 Two optional rows that sit under the header. Add them from the Header group with **Add section**. Each can be used once.
 

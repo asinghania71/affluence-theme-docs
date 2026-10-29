@@ -10,7 +10,7 @@ thumb: cart/move-to-wishlist.png
 
 # Move to wishlist
 
-{% include where.html path="Theme settings → Cart → Show &quot;Move to wishlist&quot; on cart items" styles="On in Lush, Noir, Terra" %}
+{% include where.html path="Theme settings → Cart → Show &quot;Move to wishlist&quot; on cart items" styles="On in Affluence, Noir, Terra" %}
 
 Add a **Move to wishlist** link to each cart item. It saves the product to the shopper's wishlist and takes it out of the cart, so a shopper who isn't ready to buy can keep the item instead of deleting it.
 

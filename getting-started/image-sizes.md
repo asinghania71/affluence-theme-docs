@@ -7,7 +7,7 @@ permalink: /getting-started/image-sizes/
 
 # Image sizes
 
-Shopify resizes your images automatically for each screen, so you only upload one version of each. Lush serves images up to **2000 pixels wide**. Larger uploads look no sharper; they just take longer to upload.
+Shopify resizes your images automatically for each screen, so you only upload one version of each. Affluence serves images up to **2000 pixels wide**. Larger uploads look no sharper; they just take longer to upload.
 
 | Where | Recommended size | Shape |
 |---|---|---|

@@ -10,7 +10,7 @@ thumb: product/gallery-layouts.png
 
 # Gallery and media
 
-{% include where.html path="Product template → Product information → Gallery layout" styles="Thumbnails on the right: Lush, Terra · Thumbnails on the left: Catalog · Thumbnails below: Bloom · Stacked: Atelier · Grid: Noir" %}
+{% include where.html path="Product template → Product information → Gallery layout" styles="Thumbnails on the right: Affluence, Terra · Thumbnails on the left: Catalog · Thumbnails below: Bloom · Stacked: Atelier · Grid: Noir" %}
 
 Open **Products → Default product → Product information**. The gallery settings are at the top of the section.
 

@@ -12,7 +12,7 @@ permalink: /accessibility-performance/
 
 ## Accessibility
 
-Lush is built toward WCAG 2.1 AA:
+Affluence is built toward WCAG 2.1 AA:
 
 - Visible keyboard focus on every interactive element.
 - Form fields have labels connected to their inputs.

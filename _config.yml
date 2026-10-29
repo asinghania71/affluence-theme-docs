@@ -1,5 +1,5 @@
-title: Lush Help Center
-description: Documentation for Lush, a premium Shopify theme.
+title: Affluence Help Center
+description: Documentation for Affluence, a premium Shopify theme.
 url: https://asinghania71.github.io
 baseurl: /affluence-theme-docs
 remote_theme: just-the-docs/just-the-docs@v0.10.1
@@ -10,7 +10,7 @@ search_enabled: true
 heading_anchors: true
 back_to_top: true
 back_to_top_text: "Back to top"
-footer_content: "Lush theme by Anand Singhania. Need help? See the Support page."
+footer_content: "Affluence theme by Anand Singhania. Need help? See the Support page."
 exclude:
   - "*.py"
   - Gemfile

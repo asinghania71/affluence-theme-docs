@@ -12,7 +12,7 @@ thumb: cart/drawer.png
 # Cart
 {: .no_toc }
 
-Lush has one **Cart** section. It powers the slide-out cart drawer and the full cart page, so you set everything up once and both match.
+Affluence has one **Cart** section. It powers the slide-out cart drawer and the full cart page, so you set everything up once and both match.
 
 ## Articles in this section
 

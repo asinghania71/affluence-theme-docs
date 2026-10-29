@@ -8,11 +8,11 @@ permalink: /getting-started/styles/
 # Styles
 {: .no_toc }
 
-Lush ships with six styles. A style sets the colors, fonts, corner shapes, spacing, default cart and wishlist behavior, and provides its own header, footer and page layouts. You can change any single setting afterward.
+Affluence ships with six styles. A style sets the colors, fonts, corner shapes, spacing, default cart and wishlist behavior, and provides its own header, footer and page layouts. You can change any single setting afterward.
 
 | Style | Look and feel | Best for |
 |---|---|---|
-| **Lush** | Light, warm neutrals with gold accents, sharp corners, elegant serif headings | Beauty, home, jewelry |
+| **Affluence** | Light, warm neutrals with gold accents, sharp corners, elegant serif headings | Beauty, home, jewelry |
 | **Noir** | Dark, warm gold accent, sharp corners, classic serif headings | Luxury, fragrance, spirits |
 | **Atelier** | Cool near-white, emerald accent, thicker button borders, uppercase headings | Fashion, design, art |
 | **Bloom** | Light and soft, coral-pink accent, fully rounded buttons and cards, one friendly typeface | Lifestyle, gifts, wellness |
@@ -21,9 +21,9 @@ Lush ships with six styles. A style sets the colors, fonts, corner shapes, spaci
 
 ## Preview
 
-**Lush**
+**Affluence**
 
-![The Lush style's home page, first screen]({{ '/assets/images/styles/lush.jpg' | relative_url }})
+![The Affluence style's home page, first screen]({{ '/assets/images/styles/lush.jpg' | relative_url }})
 
 **Noir**
 

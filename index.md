@@ -2,12 +2,12 @@
 title: Home
 layout: home
 nav_order: 1
-description: Help for the Lush Shopify theme. Set up your store, customize every page, and find answers.
+description: Help for the Affluence Shopify theme. Set up your store, customize every page, and find answers.
 permalink: /
 ---
 
 <div class="hero">
-  <span class="hero__eyebrow">Lush Help Center</span>
+  <span class="hero__eyebrow">Affluence Help Center</span>
   <h1>How can we help?</h1>
   <p>Set up your store, customize every page, and find answers. No code needed.</p>
   <button type="button" class="hero__search" onclick="lushOpenSearch()">
@@ -38,7 +38,7 @@ permalink: /
 <h2>Customize your store</h2>
 
 <div class="cards">
-{% assign tiles = "Getting started|getting-started/|Install Lush, pick a style and work through the launch checklist.|styles/lush.jpg~Header and navigation|customizing/header-navigation/|Announcement bar, countdown, layouts, menus and the mobile menu.|header/layouts.png~Product pages|customizing/product-pages/|Gallery, variants, buy buttons, custom fields and delivery dates.|product/page.png~Cart|customizing/cart/|Drawer or page, free shipping bar, gift wrap, discounts and more.|cart/drawer.png~Collection pages|customizing/collection-pages/|Filters, sorting, product cards, badges and ribbons.|collection/page.png~Wishlist|customizing/wishlist/|Let shoppers save products, with no app or account.|wishlist/drawer.png~Search|customizing/search/|Suggestions as shoppers type, and a results page that never dead-ends.|search/predictive.png~Footer and newsletter|customizing/footer-newsletter/|Footer layouts, menus, social links and email signup.|footer/footer-mobile.png" | split: "~" %}
+{% assign tiles = "Getting started|getting-started/|Install Affluence, pick a style and work through the launch checklist.|styles/lush.jpg~Header and navigation|customizing/header-navigation/|Announcement bar, countdown, layouts, menus and the mobile menu.|header/layouts.png~Product pages|customizing/product-pages/|Gallery, variants, buy buttons, custom fields and delivery dates.|product/page.png~Cart|customizing/cart/|Drawer or page, free shipping bar, gift wrap, discounts and more.|cart/drawer.png~Collection pages|customizing/collection-pages/|Filters, sorting, product cards, badges and ribbons.|collection/page.png~Wishlist|customizing/wishlist/|Let shoppers save products, with no app or account.|wishlist/drawer.png~Search|customizing/search/|Suggestions as shoppers type, and a results page that never dead-ends.|search/predictive.png~Footer and newsletter|customizing/footer-newsletter/|Footer layouts, menus, social links and email signup.|footer/footer-mobile.png" | split: "~" %}
 {% for tile in tiles %}{% assign t = tile | split: "|" %}
   <a class="card" href="{{ t[1] | relative_url }}">
     <span class="card__media"><img src="{{ '/assets/images/' | append: t[3] | relative_url }}" alt="" loading="lazy"></span>
@@ -53,7 +53,7 @@ permalink: /
 </div>
 
 <div class="styles-grid cards">
-{% assign styles = "Lush|Beauty and home,Noir|Luxury and fragrance,Atelier|Fashion and design,Bloom|Gifts and lifestyle,Terra|Food and craft,Catalog|Large catalogs" | split: "," %}
+{% assign styles = "Affluence|Beauty and home,Noir|Luxury and fragrance,Atelier|Fashion and design,Bloom|Gifts and lifestyle,Terra|Food and craft,Catalog|Large catalogs" | split: "," %}
 {% for s in styles %}{% assign p = s | split: "|" %}
   <a class="card" href="{{ '/getting-started/styles/' | relative_url }}">
     <span class="card__media"><img src="{{ '/assets/images/styles/' | append: p[0] | downcase | append: '.jpg' | relative_url }}" alt="" loading="lazy"></span>

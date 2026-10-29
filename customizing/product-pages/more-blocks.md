@@ -18,7 +18,7 @@ thumb_pos: right top
 Shows "Only 3 left" when stock is low. It uses your real inventory and only appears for products that track inventory. Set **Low stock threshold** to the quantity at which it appears.
 
 {: .note }
-Lush never shows made-up stock levels, viewer counts or timers. Every number comes from your store.
+Affluence never shows made-up stock levels, viewer counts or timers. Every number comes from your store.
 
 ## Pickup availability
 

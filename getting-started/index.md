@@ -16,14 +16,14 @@ This section takes you from a fresh install to a store that is ready to launch.
 ## Requirements
 
 - A Shopify store on any paid plan, or a development store.
-- Customer accounts set to **New customer accounts** or **Classic**, whichever you use. Lush includes the classic account pages.
+- Customer accounts set to **New customer accounts** or **Classic**, whichever you use. Affluence includes the classic account pages.
 - A menu named **Main menu** and one named **Footer** (Shopify creates both by default).
 
 ## Install the theme
 
 1. In the Shopify admin go to **Online Store → Themes**.
-2. Click **Add theme → Upload zip file** and select the Lush zip. (If you got Lush from the Shopify Theme Store, click **Add to theme library**.)
-3. Click **Customize** next to Lush to open the theme editor. The theme stays unpublished until you click **Publish**.
+2. Click **Add theme → Upload zip file** and select the Affluence zip. (If you got Affluence from the Shopify Theme Store, click **Add to theme library**.)
+3. Click **Customize** next to Affluence to open the theme editor. The theme stays unpublished until you click **Publish**.
 
 {: .warning }
 Always work on an unpublished copy. Before editing the code of a live theme, **duplicate** it first (**Actions → Duplicate**) so you can roll back.

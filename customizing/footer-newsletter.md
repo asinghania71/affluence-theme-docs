@@ -10,7 +10,7 @@ thumb: footer/footer-mobile.png
 # Footer and newsletter
 {: .no_toc }
 
-{% include where.html path="Footer group → Footer" styles="Columns: Lush, Atelier, Terra, Catalog · Centered: Bloom · Wordmark: Noir" %}
+{% include where.html path="Footer group → Footer" styles="Columns: Affluence, Atelier, Terra, Catalog · Centered: Bloom · Wordmark: Noir" %}
 
 ## Footer blocks
 
