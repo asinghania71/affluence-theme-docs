@@ -11,7 +11,7 @@ thumb_pos: center top
 
 # Countdown timer
 
-{% include where.html path="Header group → Announcement bar → Add block → Countdown" styles="Included in all six styles" %}
+{% include where.html path="Header group → Announcement bar → Add block → Countdown" styles="Included in all five styles" %}
 
 Count down to the real end of a sale, in the announcement bar.
 

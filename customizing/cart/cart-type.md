@@ -11,7 +11,7 @@ thumb_pos: right top
 
 # Cart type
 
-{% include where.html path="Theme settings → Cart → Cart type" styles="Drawer: Affluence, Noir, Terra · Page: Atelier · Notification: Bloom, Catalog" %}
+{% include where.html path="Theme settings → Cart → Cart type" styles="Drawer: Affluence, Noir, Terra · Page: Atelier · Notification: Bloom" %}
 
 Choose what shoppers see right after they add a product to the cart.
 

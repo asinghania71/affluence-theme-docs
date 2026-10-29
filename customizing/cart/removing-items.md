@@ -11,7 +11,7 @@ thumb_pos: right top
 
 # Removing items
 
-{% include where.html path="Theme settings → Cart → When an item is removed" styles="Remove immediately: Bloom · Ask to confirm: Affluence, Noir, Catalog · Remove with undo: Atelier, Terra" %}
+{% include where.html path="Theme settings → Cart → When an item is removed" styles="Remove immediately: Bloom · Ask to confirm: Affluence, Noir · Remove with undo: Atelier, Terra" %}
 
 Decide what happens when a shopper removes an item from the cart. Asking first, or offering **Undo**, protects against accidental taps on mobile.
 

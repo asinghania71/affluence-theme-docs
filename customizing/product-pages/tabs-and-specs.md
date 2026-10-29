@@ -11,7 +11,7 @@ thumb: product/tabs.png
 # Tabs, specifications and pop-ups
 {: .no_toc }
 
-{% include where.html path="Product template → Product information → Tabs, Specifications or Pop-up block" styles="Tabs: Catalog · Specifications: Catalog, Terra" %}
+{% include where.html path="Product template → Product information → Tabs, Specifications or Pop-up block" styles="Specifications: Terra" %}
 
 1. TOC
 {:toc}

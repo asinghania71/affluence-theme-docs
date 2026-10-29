@@ -4,7 +4,7 @@ parent: Customizing
 nav_order: 3
 permalink: /customizing/home-page/
 summary: "A proven section order, and which section to choose for what."
-thumb: styles/lush.jpg
+thumb: styles/affluence.jpg
 ---
 
 # Building the home page
