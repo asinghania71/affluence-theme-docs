@@ -4,7 +4,7 @@ parent: Header and navigation
 grand_parent: Customizing
 nav_order: 5
 permalink: /customizing/header-navigation/menus/
-summary: "Build menus and dropdowns, and add promo images."
+summary: "Build menus and dropdowns, choose a menu bar or icon on desktop, and add promo images."
 thumb: header/mega-menu.png
 ---
 
@@ -23,6 +23,18 @@ Menus are edited in your Shopify admin, not the theme editor.
 In the theme editor, open the **Header** section and check that **Menu** is set to **Main menu**.
 
 **Show "Shop all" links** (on by default) adds a link to the parent page at the top of every dropdown, for example "Shop all Skincare".
+
+## Show the menu as a bar or an icon on desktop
+
+{% include where.html path="Header → Desktop menu" styles="Menu bar: Noir, Bloom, Terra · Menu icon: Atelier · Hidden: Affluence" %}
+
+**Desktop menu** decides how the menu appears on computers:
+
+- **Menu bar** (default): menu links across the header.
+- **Menu icon**: the same menu icon phones use. It opens the menu drawer, which keeps the header minimal.
+- **Hidden**: no menu in the header. Use this only when another section shows the menu, such as a **Header menu row** (see [Extra header rows](../extra-rows/)), so visitors can still find their way around.
+
+Phones always use the menu icon and drawer, whichever option you choose.
 
 ## Add a promo image to a dropdown
 

@@ -86,6 +86,7 @@ Open **Theme settings** (paintbrush icon) in the theme editor.
 | Grid gap | range | 1 | Set to 1 pixel to show a thin line between grid items. |
 | Space between sections | range | 64 | Default vertical space between sections. Individual sections can add their own padding. |
 | Show breadcrumbs | checkbox | on | Applies to product, collection, blog, article, page and quick order list pages. |
+| Show back to top button | checkbox | off | Shows a button once the visitor has scrolled down the page. |
 
 
 **Drawers**
@@ -298,7 +299,7 @@ Open **Theme settings** (paintbrush icon) in the theme editor.
 | Setting | Type | Default | Notes |
 |---|---|---|---|
 | Match type | select | tag | Options: Product tag · New arrival. |
-| Product tag | text |  | Case-sensitive. Must exactly match a product tag. Used only when the match type is Product tag. |
+| Product tag | text |  | Not case-sensitive. Otherwise must exactly match a product tag. Used only when the match type is Product tag. |
 | Days since added | range | 30 | Shows the ribbon for this many days after the product is created. Used only when the match type is New arrival. |
 | Ribbon text | text |  |  |
 | Background | color | #111110 |  |
@@ -311,7 +312,7 @@ Open **Theme settings** (paintbrush icon) in the theme editor.
 | Setting | Type | Default | Notes |
 |---|---|---|---|
 | Match type | select | tag | Options: Product tag · New arrival. |
-| Product tag | text |  | Case-sensitive. Must exactly match a product tag. Used only when the match type is Product tag. |
+| Product tag | text |  | Not case-sensitive. Otherwise must exactly match a product tag. Used only when the match type is Product tag. |
 | Days since added | range | 30 | Shows the ribbon for this many days after the product is created. Used only when the match type is New arrival. |
 | Ribbon text | text |  |  |
 | Background | color | #111110 |  |
@@ -324,7 +325,7 @@ Open **Theme settings** (paintbrush icon) in the theme editor.
 | Setting | Type | Default | Notes |
 |---|---|---|---|
 | Match type | select | tag | Options: Product tag · New arrival. |
-| Product tag | text |  | Case-sensitive. Must exactly match a product tag. Used only when the match type is Product tag. |
+| Product tag | text |  | Not case-sensitive. Otherwise must exactly match a product tag. Used only when the match type is Product tag. |
 | Days since added | range | 30 | Shows the ribbon for this many days after the product is created. Used only when the match type is New arrival. |
 | Ribbon text | text |  |  |
 | Background | color | #111110 |  |
@@ -337,7 +338,7 @@ Open **Theme settings** (paintbrush icon) in the theme editor.
 | Setting | Type | Default | Notes |
 |---|---|---|---|
 | Match type | select | tag | Options: Product tag · New arrival. |
-| Product tag | text |  | Case-sensitive. Must exactly match a product tag. Used only when the match type is Product tag. |
+| Product tag | text |  | Not case-sensitive. Otherwise must exactly match a product tag. Used only when the match type is Product tag. |
 | Days since added | range | 30 | Shows the ribbon for this many days after the product is created. Used only when the match type is New arrival. |
 | Ribbon text | text |  |  |
 | Background | color | #111110 |  |
@@ -350,7 +351,7 @@ Open **Theme settings** (paintbrush icon) in the theme editor.
 | Setting | Type | Default | Notes |
 |---|---|---|---|
 | Match type | select | tag | Options: Product tag · New arrival. |
-| Product tag | text |  | Case-sensitive. Must exactly match a product tag. Used only when the match type is Product tag. |
+| Product tag | text |  | Not case-sensitive. Otherwise must exactly match a product tag. Used only when the match type is Product tag. |
 | Days since added | range | 30 | Shows the ribbon for this many days after the product is created. Used only when the match type is New arrival. |
 | Ribbon text | text |  |  |
 | Background | color | #111110 |  |
@@ -363,7 +364,7 @@ Open **Theme settings** (paintbrush icon) in the theme editor.
 | Setting | Type | Default | Notes |
 |---|---|---|---|
 | Match type | select | tag | Options: Product tag · New arrival. |
-| Product tag | text |  | Case-sensitive. Must exactly match a product tag. Used only when the match type is Product tag. |
+| Product tag | text |  | Not case-sensitive. Otherwise must exactly match a product tag. Used only when the match type is Product tag. |
 | Days since added | range | 30 | Shows the ribbon for this many days after the product is created. Used only when the match type is New arrival. |
 | Ribbon text | text |  |  |
 | Background | color | #111110 |  |

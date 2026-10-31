@@ -127,6 +127,10 @@ Accepts blocks from installed Shopify apps.
 | Low stock threshold | range | 5 | Uses your inventory quantity. Shown only for products that track inventory. |
 
 
+#### Back in stock alert
+
+
+
 #### SKU
 
 

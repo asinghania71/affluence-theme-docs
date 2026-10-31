@@ -15,6 +15,7 @@ parent: Sections reference
 
 | Setting | Type | Default | Notes |
 |---|---|---|---|
+| Show Sign in with Shop button | checkbox | on | Appears only when Shop sign-in is turned on for your store. |
 | Heading size | select | h1 | Options: Small · Medium · Large. |
 
 

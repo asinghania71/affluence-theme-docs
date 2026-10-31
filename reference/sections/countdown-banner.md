@@ -20,6 +20,7 @@ parent: Sections reference
 |---|---|---|---|
 | End date | text |  | Format: YYYY-MM-DD |
 | End time | text |  | 24-hour format: HH:MM |
+| Time zone (UTC offset) | text |  | Optional, for example +05:30 or -08:00. Leave blank to use your store's time zone. |
 
 
 **Heading**

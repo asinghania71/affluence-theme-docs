@@ -21,6 +21,7 @@ Available on: header.
 | Setting | Type | Default | Notes |
 |---|---|---|---|
 | Menu | link_list | main-menu |  |
+| Desktop menu | select | bar | Menu icon opens the menu drawer, as on phones. Hidden suits a store where another section, such as Header menu row, shows the menu. Phones always use the menu drawer. Options: Menu bar · Menu icon · Hidden. |
 | Show "Shop all" links | checkbox | on | Adds a link to the parent page at the top of each submenu, on desktop and mobile. |
 | Customer account menu | link_list | customer-account-main-menu | Shown only when customer accounts are enabled in Settings > Customer accounts. |
 | Wishlist page | url |  | Create a page with the "wishlist" template, then link it here. The icon appears once this is set. |

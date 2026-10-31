@@ -51,7 +51,7 @@ Cards are styled globally in **Theme settings → Product cards**: image ratio, 
 Ribbons are your own labels, such as "Bestseller" or "New". Set up to six in **Theme settings → Product ribbons**:
 
 1. Pick a free **Ribbon** slot.
-2. Choose **Match type**: **Product tag** (shows on products with that exact tag) or **New arrival** (shows for a number of **Days since added**).
+2. Choose **Match type**: **Product tag** (shows on products with that tag; capitalization doesn't matter, so "bestseller" matches a product tagged "Bestseller") or **New arrival** (shows for a number of **Days since added**).
 3. Enter **Ribbon text** and colors.
 4. Click **Save**.
 

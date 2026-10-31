@@ -10,6 +10,10 @@ parent: Reference
 
 Reusable blocks that can be added inside sections that accept theme blocks. Blocks used only by the product page or cart are included too, and also listed under the section that uses them.
 
+## Back in stock alert
+
+`blocks/_back_in_stock.liquid`
+
 ## Buy buttons
 
 `blocks/_buy_buttons.liquid`

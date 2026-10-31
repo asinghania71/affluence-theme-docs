@@ -17,4 +17,5 @@ Initial release.
 - **Cart**: drawer, page or notification; free shipping bar; remove with confirmation or undo; move to wishlist; terms checkbox; discount codes; gift wrap with message; shipping estimate; recommendations.
 - **Wishlist** saved in the shopper's browser, as a drawer, pop-up or page. No app or account needed.
 - **Collections and search**: filters, sorting, grid density toggle, product ribbons, badges, predictive search with suggested and recent searches.
+- **Extras**: an optional age verifier and promo popup, back-in-stock requests, pre-order buttons, a back to top button, lookbook and press coverage sections, and an app-style bottom navigation bar for phones.
 - **31 languages** included.

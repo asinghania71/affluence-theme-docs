@@ -43,6 +43,7 @@ parent: Sections reference
 |---|---|---|---|
 | Let shoppers switch grid density | checkbox | on | Adds a compact and wide view toggle above the grid. The customer's choice is saved in their browser. |
 | Products per page | range | 24 |  |
+| Navigation menu | link_list |  | Shows the menu's links in a row above the products, for moving between related collections. |
 | Pagination | select | default | Options: Numbered pages · "Load more" button · Infinite scroll. |
 | Columns on desktop | range | 4 | Default number of columns on desktop. Customers can switch to the wide view if the toggle above is enabled. |
 | Columns on mobile | range | 2 | Default number of columns on mobile. Customers can switch to the wide view if the toggle above is enabled. |
