@@ -18,7 +18,7 @@ parent: Sections reference
 | Video | video |  |  |
 | Video URL | video_url |  | Used when no video is uploaded. Supports YouTube and Vimeo. |
 | Cover image | image_picker |  | Shown only for YouTube or Vimeo videos without autoplay. |
-| Crop to fill | checkbox | off | On crops the image to fill the space. Off shows the full image, with empty space if its shape differs. |
+| Crop to fill | checkbox | on | On crops the image to fill the space. Off shows the full image, with empty space if its shape differs. |
 
 
 **Layout**

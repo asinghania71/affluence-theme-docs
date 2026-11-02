@@ -18,7 +18,7 @@ parent: Sections reference
 | Background image | image_picker |  |  |
 | Image overlay opacity | range | 40 | Darkens the image to keep text readable. |
 | Image height | select | adapt | Options: Adapt to content · Small · Medium · Large. |
-| Crop to fill | checkbox | off | On crops the image to fill the space. Off shows the full image, with empty space if its shape differs. |
+| Crop to fill | checkbox | on | On crops the image to fill the space. Off shows the full image, with empty space if its shape differs. |
 
 
 **Layout**

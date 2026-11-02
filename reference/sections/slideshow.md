@@ -80,7 +80,7 @@ Up to **6** blocks.
 
 | Setting | Type | Default | Notes |
 |---|---|---|---|
-| Crop to fill | checkbox | off | On crops the image to fill the space. Off shows the full image, with empty space if its shape differs. |
+| Crop to fill | checkbox | on | On crops the image to fill the space. Off shows the full image, with empty space if its shape differs. |
 | Image overlay opacity | range | 0 | Adds extra darkening over the default gradient. Useful for bright images. |
 | Overlay direction | select | bottom | Sets which side of the image the overlay is darkest. Even applies a uniform overlay. Options: Follow text position · Bottom up · Top down · Left to right · Right to left · Even. |
 | Time on this slide | range | 0 | Set to 0 to use the section's autoplay speed. |

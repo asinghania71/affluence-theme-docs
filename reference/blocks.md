@@ -289,7 +289,7 @@ Reusable blocks that can be added inside sections that accept theme blocks. Bloc
 | Caption | text |  |  |
 | Badge | text |  | Short label over the video, such as "New" or "Behind the scenes". |
 | Product below video | product |  | Shows the product's image, price and add to cart button below the video. |
-| Crop to fill | checkbox | off | On crops the image to fill the space. Off shows the full image, with empty space if its shape differs. |
+| Crop to fill | checkbox | on | On crops the image to fill the space. Off shows the full image, with empty space if its shape differs. |
 
 ## SKU
 
