@@ -77,6 +77,17 @@ Available on: header.
 | Show promo tiles | checkbox | on | Shows the dropdown promo tiles under matching items in the mobile menu. |
 
 
+**Icons on phones**
+
+
+| Setting | Type | Default | Notes |
+|---|---|---|---|
+| Hide search icon on phones | checkbox | off | Turn these on for icons the bottom navigation bar already shows, so each appears once. |
+| Hide account icon on phones | checkbox | off |  |
+| Hide wishlist icon on phones | checkbox | off |  |
+| Hide cart icon on phones | checkbox | off |  |
+
+
 **Transparent header**
 
 

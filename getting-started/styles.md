@@ -12,25 +12,25 @@ Affluence ships with five styles. A style sets the colors, fonts, corner shapes,
 
 | Style | Look and feel | Best for |
 |---|---|---|
-| **Affluence** | Light, warm neutrals with gold accents, sharp corners, elegant serif headings | Skincare, beauty, wellness |
+| **Atelier** | Light, warm neutrals with gold accents, sharp corners, elegant serif headings | Skincare, beauty, wellness |
 | **Noir** | Dark, warm gold accent, sharp corners, classic serif headings | Fine jewelry, watches, luxury accessories |
-| **Atelier** | Cool near-white, emerald accent, thicker button borders, uppercase headings | Fashion, apparel, accessories |
+| **Affluence** | Cool near-white, emerald accent, thicker button borders, uppercase headings | Fashion, apparel, accessories |
 | **Bloom** | Light and soft, coral-pink accent, fully rounded buttons and cards, one friendly typeface | Flowers, gifts, lifestyle |
 | **Terra** | Dark warm clay-brown, terracotta accent, slab-serif headings, medium rounded corners | Home decor, ceramics, handmade goods |
 
 ## Preview
 
-**Affluence**
+**Atelier**
 
-![The Affluence style's home page, first screen]({{ '/assets/images/styles/affluence.jpg' | relative_url }})
+![The Atelier style's home page, first screen]({{ '/assets/images/styles/atelier.jpg' | relative_url }})
 
 **Noir**
 
 ![The Noir style's home page, first screen]({{ '/assets/images/styles/noir.jpg' | relative_url }})
 
-**Atelier**
+**Affluence**
 
-![The Atelier style's home page, first screen]({{ '/assets/images/styles/atelier.jpg' | relative_url }})
+![The Affluence style's home page, first screen]({{ '/assets/images/styles/affluence.jpg' | relative_url }})
 
 **Bloom**
 

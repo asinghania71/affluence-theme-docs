@@ -10,7 +10,7 @@ thumb: header/transparent.png
 
 # Transparent header
 
-{% include where.html path="Header group → Header → Transparent header" styles="Home page only: Atelier · Every page: Noir" %}
+{% include where.html path="Header group → Header → Transparent header" styles="Home page only: Affluence · Every page: Noir" %}
 
 Lay the header over a full-width image at the top of the page, for a magazine-style first impression. The header turns solid as soon as shoppers scroll.
 

@@ -53,7 +53,7 @@ permalink: /
 </div>
 
 <div class="styles-grid cards">
-{% assign styles = "Affluence|Skincare and beauty,Noir|Fine jewelry,Atelier|Fashion and apparel,Bloom|Flowers and gifts,Terra|Home and ceramics" | split: "," %}
+{% assign styles = "Affluence|Fashion and apparel,Noir|Fine jewelry,Atelier|Skincare and beauty,Bloom|Flowers and gifts,Terra|Home and ceramics" | split: "," %}
 {% for s in styles %}{% assign p = s | split: "|" %}
   <a class="card" href="{{ '/getting-started/styles/' | relative_url }}">
     <span class="card__media"><img src="{{ '/assets/images/styles/' | append: p[0] | downcase | append: '.jpg' | relative_url }}" alt="" loading="lazy"></span>

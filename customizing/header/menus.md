@@ -26,7 +26,7 @@ In the theme editor, open the **Header** section and check that **Menu** is set 
 
 ## Show the menu as a bar or an icon on desktop
 
-{% include where.html path="Header → Desktop menu" styles="Menu bar: Noir, Bloom, Terra · Menu icon: Atelier · Hidden: Affluence" %}
+{% include where.html path="Header → Desktop menu" styles="Menu bar: Noir, Bloom, Terra · Menu icon: Affluence · Hidden: Atelier" %}
 
 **Desktop menu** decides how the menu appears on computers:
 

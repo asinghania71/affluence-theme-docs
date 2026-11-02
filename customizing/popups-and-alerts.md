@@ -49,7 +49,7 @@ When a variant tracks inventory, is out of stock and still allows purchase ("Con
 
 ## Back to top
 
-{% include where.html path="Theme settings → Layout → Show back to top button" styles="On: Affluence, Catalog" %}
+{% include where.html path="Theme settings → Layout → Show back to top button" styles="On: Atelier, Catalog" %}
 
 A round button appears after the visitor scrolls past one screen. It moves up out of the way of the sticky add-to-cart bar.
 

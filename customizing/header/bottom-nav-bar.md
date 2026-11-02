@@ -9,7 +9,7 @@ summary: "An app-style bar of shortcuts pinned to the bottom of the screen on ph
 
 # Bottom navigation bar
 
-{% include where.html path="Footer group → Bottom navigation bar" styles="On: Affluence, Bloom, Catalog, Noir, Terra · Off: Atelier · Hides on scroll: Bloom · Floating: Bloom, Noir · 90% opacity: Bloom" %}
+{% include where.html path="Footer group → Bottom navigation bar" styles="On: Atelier, Bloom, Catalog, Noir, Terra · Off: Affluence · Hides on scroll: Bloom · Floating: Bloom, Noir · 90% opacity: Bloom" %}
 
 On phones, the bottom navigation bar stays pinned to the bottom of the screen while shoppers scroll, like the tab bar in a shopping app. On tablets and desktops it is hidden.
 
@@ -37,9 +37,9 @@ The item for the page a shopper is on is highlighted: Home and Link items on the
 
 ## Avoid showing the same icon twice
 
-Each of those four items has **Hide in header on mobile**, on by default. It hides the matching icon in the header on phones, so shoppers don't see a search or cart icon twice. The header on desktop is not affected.
+The header has an **Icons on phones** group with one checkbox each for the search, account, wishlist and cart icons. Turn on the ones the bar already shows, so shoppers don't see a search or cart icon twice. They are on in every style that has the bar and off in Atelier, which leaves the bar out. The header on tablets and desktops is not affected.
 
-Turn it off for an item if you want the icon in both places.
+Leave a box off if you want that icon in both places.
 
 ## Other settings
 

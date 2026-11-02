@@ -10,7 +10,7 @@ thumb: search/predictive.png
 # Search
 {: .no_toc }
 
-{% include where.html path="Theme settings → Search" styles="Recent searches on: Affluence" %}
+{% include where.html path="Theme settings → Search" styles="Recent searches on: Atelier" %}
 
 ## Predictive search
 

@@ -39,7 +39,8 @@ In the page picker, choose **Products → Default product**, then open the **Pro
 | **Estimated delivery date** | A delivery date range |
 | **Quick order trigger** | A button that opens a table to order many variants at once |
 | **Description** | The product description |
-| **Collapsible row**, **Tabs**, **Specifications**, **Pop-up** | Extra content such as care, shipping or a size chart |
+| **Collapsible row**, **Tabs**, **Specifications**, **Pop-up** | Extra content such as care or shipping |
+| **Size chart** | A size chart with an inches/centimeters switch ([details](size-chart/)) |
 | **Share**, **Wishlist** | Share links and a save-for-later button |
 | **Text**, **Icon with text** | Free text and short perks such as "Free returns" |
 | **Complementary products** | Products that go well with this one |

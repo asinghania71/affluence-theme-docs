@@ -40,7 +40,6 @@ parent: Sections reference
 | Setting | Type | Default | Notes |
 |---|---|---|---|
 | Label | text |  |  |
-| Hide in header on mobile | checkbox | on | Hides the matching header icon on phones, since the bottom bar already shows it. |
 
 
 #### Account (max 1)
@@ -49,7 +48,6 @@ parent: Sections reference
 | Setting | Type | Default | Notes |
 |---|---|---|---|
 | Label | text |  |  |
-| Hide in header on mobile | checkbox | on | Hides the matching header icon on phones, since the bottom bar already shows it. |
 
 
 #### Wishlist (max 1)
@@ -59,7 +57,6 @@ parent: Sections reference
 |---|---|---|---|
 | Link | url |  |  |
 | Label | text |  |  |
-| Hide in header on mobile | checkbox | on | Hides the matching header icon on phones, since the bottom bar already shows it. |
 
 
 #### Cart (max 1)
@@ -68,4 +65,3 @@ parent: Sections reference
 | Setting | Type | Default | Notes |
 |---|---|---|---|
 | Label | text |  |  |
-| Hide in header on mobile | checkbox | on | Hides the matching header icon on phones, since the bottom bar already shows it. |

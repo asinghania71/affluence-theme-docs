@@ -10,7 +10,7 @@ thumb: wishlist/drawer.png
 # Wishlist
 {: .no_toc }
 
-{% include where.html path="Theme settings → Wishlist" styles="Drawer: Affluence, Bloom · Modal: Noir, Terra · Page: Atelier" %}
+{% include where.html path="Theme settings → Wishlist" styles="Drawer: Atelier, Bloom · Modal: Noir, Terra · Page: Affluence" %}
 
 Shoppers save products with the heart button on product cards and product pages, then open their list from the heart icon in the header.
 

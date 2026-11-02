@@ -54,4 +54,7 @@ A link that opens content in a window, most often a size chart.
 | **Text** | Shown when no page is set, or above the page |
 
 {: .note }
+For a size chart with an inches/centimeters switch and tappable rows, use the [Size chart block](../size-chart/) instead.
+
+{: .note }
 Different size charts for different products: create a product metafield of type **Page**, fill it in on each product, and connect the pop-up's **Page** setting to it. Products without a chart don't show the link.

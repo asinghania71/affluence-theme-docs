@@ -252,6 +252,21 @@ Accepts blocks from installed Shopify apps.
 | Text | richtext |  | Used when no page is selected, or shown above the page content. |
 
 
+#### Size chart
+
+
+| Setting | Type | Default | Notes |
+|---|---|---|---|
+| Link label | text | Size chart |  |
+| Icon | select | ruler | Options: None · Ruler · Info. |
+| Size chart | textarea | Size \| Chest \| Length \| Shoulder S \| 36 \| 27 \| 16.5 M \| 38 \| 28 \| 17 L \| 40 \| 29 \| 17.5 XL \| 42 \| 30 \| 18 | One row per line, columns separated by \|, header row first. Connect a product metafield (multi-line text) to give each product its own chart. The link is hidden when there is no chart. |
+| Unit used in the chart | select | in | Options: Inches · Centimeters. |
+| Only show on products with these sizes | checkbox | off | Hides the link on products that have no size option matching the first column, such as bags. |
+| Show the product in the sheet | checkbox | on |  |
+| How to measure (text) | richtext |  |  |
+| How to measure (image) | image_picker |  |  |
+
+
 #### Complementary products
 
 

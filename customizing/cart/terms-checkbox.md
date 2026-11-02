@@ -10,7 +10,7 @@ thumb: cart/terms.png
 
 # Terms checkbox
 
-{% include where.html path="Theme settings → Cart → Require agreement to terms" styles="On in Atelier" %}
+{% include where.html path="Theme settings → Cart → Require agreement to terms" styles="On in Affluence" %}
 
 Require customers to tick a box agreeing to your terms before they can check out.
 
