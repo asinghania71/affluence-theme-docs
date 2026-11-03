@@ -8,7 +8,7 @@ permalink: /changelog/
 
 ## 1.0.0
 
-Initial release.
+Released 2026-11-03. Initial release.
 
 - **Five styles**: Affluence, Noir, Atelier, Bloom and Terra.
 - **34 sections** to add from **Add section**, each with its own color scheme and spacing.
